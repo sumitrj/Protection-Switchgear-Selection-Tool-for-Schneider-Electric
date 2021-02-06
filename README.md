@@ -22,6 +22,4 @@ This algorithm is in the the form of a 'Single Line Diagram' SLD, and is integra
 #### Part 2:
 The algorithm uses the ANSI codes of the protection functions that are specified for the preferred relay and it iterates through the inventory database of all Schneider Electric relay models and prescribes the optimal models for the required specifications. 
 
-### Current Status:
-This project has the potential to be used by SCHNEIDER Electric tendering team all across India. The project has not been made open source since it is under development with the company and has IPR concerns.
-Link to the private repository: https://github.com/vivanks/Selection-Tool-for-Protection-Relays
+The project can be found in this private repository: https://github.com/vivanks/Selection-Tool-for-Protection-Relays
